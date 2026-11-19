@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-family:Arial,sans-serif;
+}
+nav{
+    background-color:darkgreen;
+    color: white;
+    padding: 15px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+  display:flex;
+  list-style: none;
+  gap: 250px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
